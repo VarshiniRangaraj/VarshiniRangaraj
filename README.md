@@ -19,10 +19,12 @@ I am passionate about Software Development, Artificial Intelligence and Machine 
 - Python
 - C++
 - SQL
+  
 **Web**
 - HTML
 - CSS
 - JavaScript
+  
 **Tools**
 - Git
 - GitHub
