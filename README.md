@@ -1,8 +1,8 @@
-# Hi, I'm Arul Amirtha Varsini R P 👋
+# Hi, I'm Arul Amirtha Varsini R P
 
 Computer Science Engineering Student @ SASTRA | Java | Python | AI & ML | DSA | Building real-world software
 
-I am passionate about Software Development, Artificial Intelligence and Machine Learning, with a strong interest in building practical, data-driven applications
+I am passionate about Software Development, Artificial Intelligence and Machine Learning, with a strong interest in building practical, scalable and data-driven applications
 
 ## Areas of Interest
 
@@ -10,10 +10,24 @@ I am passionate about Software Development, Artificial Intelligence and Machine 
 - Artificial Intelligence
 - Machine Learning
 - Data Structures and Algorithms
+- Backend Development
 
 ## Tech Stack
 
-Java, Python, C++, SQL, HTML, CSS, JavaScript
+**Languages**
+- Java
+- Python
+- C++
+- SQL
+**Web**
+- HTML
+- CSS
+- JavaScript
+**Tools**
+- Git
+- GitHub
+- MySQL
+- VS Code
 
 ## Featured Projects
 
