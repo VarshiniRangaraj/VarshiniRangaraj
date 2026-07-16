@@ -1,6 +1,6 @@
 # Hi, I'm Arul Amirtha Varsini R P 👋
 
-Computer Science Engineering Student at SASTRA Deemed University
+Computer Science Engineering Student @ SASTRA | Java | Python | AI & ML | DSA | Building real-world software
 
 I am passionate about Software Development, Artificial Intelligence and Machine Learning, with a strong interest in building practical, data-driven applications
 
