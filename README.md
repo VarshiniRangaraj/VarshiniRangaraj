@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Arul Amirtha Varsini R P 👋
 
-<!--
-**VarshiniRangaraj/VarshiniRangaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student at SASTRA Deemed University
 
-Here are some ideas to get you started:
+I am passionate about Software Development, Artificial Intelligence and Machine Learning, with a strong interest in building practical, data-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Software Development
+- Artificial Intelligence
+- Machine Learning
+- Data Structures and Algorithms
+
+## Tech Stack
+
+Java, Python, C++, SQL, HTML, CSS, JavaScript
+
+## Featured Projects
+
+- ML-based Intrusion Detection System for APT cyber-clustering
+- Mini Database Engine with Custom Query Processing
+- Fake Review Detection System Using Machine Learning
+- Intelligent Recommendation System using User Behavior Analysis 
+
